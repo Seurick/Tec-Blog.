@@ -1,0 +1,262 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+        /* Início estilização cabeçalho*/
+body{    
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background: #e6e6e6;
+}
+#conteudo-cabecalho {    
+    background:#f7b600 ;
+    margin: auto;
+    height: 140px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;    
+}
+
+.text-tec{    
+    font-size: 41px;
+    color: rgb(78, 78, 78);
+    position: relative;
+    top: 17px;
+    padding: 8px ;
+}
+.text-blog{    
+    color: white;
+    position: relative;
+    left: 1px;
+}
+
+#menu{    
+    margin-top: 18px;
+    margin-left: 18px;
+    padding: 10px;             
+}
+
+a.link:link {  
+    font-size: 16px;
+    font-weight: bolder;    
+    padding: 12px;
+    text-decoration: none;    
+}
+    
+a.link:visited{   
+    color: white;
+    }
+
+a.link:hover{
+    background:white;
+    color: orange;          
+}
+
+a.link:active{
+   
+}
+
+/* Fim estilização cabeçalho*/
+
+
+/* Inicio área lateral*/
+
+.titulo-arealateral{
+    background: #c6c6c6;
+    color: rgb(85, 80, 80);
+    text-align: left;
+    padding: 2px;
+    position: relative;
+    width: 210px;
+    height: 26px;
+    top: 3px;
+    left: 8px;
+}
+.area-lateral1{    
+    background: white;
+    width: 229px;
+    height: 189px;
+    padding: 5px;
+    position: relative;
+    left: 680px;
+    bottom: 610px;
+}
+.area-lateral2{    
+    background: white;
+    width: 229px;
+    height: auto;
+    padding: 2px;
+    position: relative;
+    left: -5px;
+    top:50px;
+}
+
+.postagem1{
+    font-size: 14px;
+    width: 215px;
+    border-bottom: 2px dotted #c6c6c6;
+    position: relative;
+    top: 5px;
+    left: 8px;    
+}
+  
+.postagem2{        
+    font-size: 14px;
+    width: 215px;
+    position: relative;
+    top: 10px;
+    left: 8px;
+}
+
+.links-arealateral{
+    line-height: 10px;
+    margin-top: 6px;
+    margin-left: 18px;
+
+}
+
+a { 
+    color: orange; 
+    font-size: 16px;     
+    text-decoration: none;    
+}
+
+a:link{
+    
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+
+}
+
+/* Fim área lateral*/
+
+
+/* Inicio estilização conteudo principal*/  
+     
+
+span{    
+    position: relative;
+
+}
+.area-postagem {  
+    background: white;
+    margin: auto;    
+    width: 660px;
+    height: 640px;
+    position: relative;
+    top: 14px;
+    right: 120px;
+}
+
+.area-postagem1{
+    background: white;
+    margin: auto;
+    width: 660px;
+    height: 640px;
+    position: relative;
+    bottom: 150px;
+}
+
+.publicaçao{      
+    background: white;
+    font-size: 16px;
+    width: 620px;
+    height: 550px;    
+    position: relative;
+    left: 20px;
+    top: 23px;
+    text-align: justify;      
+
+}  
+
+.conteudo-titulo1{   
+    border-bottom: 1px dotted #c6c6c6 ;
+    font-size: 14px;
+    background: white;
+    position: relative;
+    width: 620px;
+    height: 59px;
+    top: 15px;
+    left: 18px;    
+}   
+h1{   
+    width: 1x;
+    color:#f7b600;
+    font-size: 25px;
+    position: relative;
+    left: 10px;
+}
+
+h2{
+     width: 300px;
+    color:#f7b600;
+    font-size: 25px;
+    position: relative;
+    left: px;
+}
+
+
+/* Término estilização conteudo printipal*/
+  
+/*rodapé*/
+
+
+#rodape{
+    background: #ccc;  
+    margin: 0px;
+    padding: 15px;
+    border: 0px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    height: 19px;
+    top: 695px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+
